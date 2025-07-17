@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: JUnitTest.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.584 s - in JUnitTest.CalculatorTest
